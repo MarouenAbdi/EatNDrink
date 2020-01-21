@@ -4,7 +4,4 @@ Eat N' Drink is an android mobile application that helps you find nearby restaur
 
 # Screenshots
 
-![GitHub Logo](/screenshots/Homepage.jpeg)
-![GitHub Logo](/screenshots/Restaurants.jpeg)
-![GitHub Logo](/screenshots/Directions.jpeg)
-![GitHub Logo](/screenshots/sharing.jpeg)
+![GitHub Logo](/screenshots/screenshots.jpeg)
